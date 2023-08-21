@@ -1,3 +1,4 @@
 [submodule "amg-backend-api"]
 	path = amg-backend-api
 	url = https://github.com/roman-andriiv/amg-backend-api.git
+	submodule.recurse=true
